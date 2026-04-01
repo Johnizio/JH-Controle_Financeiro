@@ -1,0 +1,6 @@
+{
+  "tema": "dark",
+  "moeda_padrao": "USD",
+  "max_backups": 15,
+  "busca_tempo_real": true
+}

@@ -1,0 +1,20 @@
+# Banco de dados (não versionar dados pessoais)
+*.db
+backups/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
