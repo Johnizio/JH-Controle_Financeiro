@@ -13,19 +13,19 @@ Desenvolvida em Python, com interface gráfica Tkinter, persistência em SQLite 
 ## Capturas de Tela
 
 ### Registrar
-![Registrar](img/screenshots/register-form.png)
+![Registrar](img/screenshot/register-form.jpg)
 
 ### Tabela de registros
-![Registros](img/screenshots/records-table.png)
+![Registros](img/screenshot/records-table.jpg)
 
 ### Visualização de gráficos
-![Gráficos](img/screenshots/charts-view.png)
+![Gráficos](img/screenshot/charts-view.jpg)
 
 ### Tema claro
-![Light Theme](img/screenshots/light-theme.png)
+![Light Theme](img/screenshot/light-theme.jpg)
 
 ### Gerenciador
-![Manager](img/screenshots/manager.png)
+![Manager](img/screenshot/manager.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ Desenvolvida em Python, com interface gráfica Tkinter, persistência em SQLite 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/controle-financeiro.git
+git clone https://github.com/Johnizio/JH-Controle_Financeiro.git
 cd controle-financeiro
 
 # (Recomendado) Crie um ambiente virtual
